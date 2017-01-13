@@ -1,0 +1,6 @@
+docs/site/
+
+# Testing
+.cache/
+.tox/
+*/__pycache__/
